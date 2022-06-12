@@ -234,14 +234,14 @@ $font-family-openSans: 'Open Sans', sans-serif;
     }
 
     &__bgimage {
-        background-image: url("/images/bg-curve-mobile.svg");
+        background-image: url("images/bg-curve-mobile.svg");
         background-repeat: no-repeat;
         margin-top: 5.6rem;
         width: 100vw;
         height: 3rem;
         
         @media (min-width: 900px) {
-            background-image: url("/images/bg-curve-desktop.svg");
+            background-image: url("images/bg-curve-desktop.svg");
             background-repeat: no-repeat;
             margin-top: 5rem;
             width: 100rem;
