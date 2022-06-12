@@ -279,7 +279,7 @@
 }
 
 .header__bgimage {
-  background-image: url("/images/bg-curve-mobile.svg");
+  background-image: url("images/bg-curve-mobile.svg");
   background-repeat: no-repeat;
   margin-top: 5.6rem;
   width: 100vw;
@@ -288,7 +288,7 @@
 
 @media (min-width: 900px) {
   .header__bgimage {
-    background-image: url("/images/bg-curve-desktop.svg");
+    background-image: url("images/bg-curve-desktop.svg");
     background-repeat: no-repeat;
     margin-top: 5rem;
     width: 100rem;
